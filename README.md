@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mern stack**
 
-- 🌱 I’m currently learning **nest,docker,Aws,react**
+- 🌱 I’m currently learning **nest,Aws,react**
 
 - 👯 I’m looking to collaborate on **Mern Stack**
 
