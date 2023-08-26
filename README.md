@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **express,node,mongodb,mongoose,graphql**
+- 💬 Ask me about **express,node,mongodb,mongoose**
 
 - 📫 How to reach me **sameer.ijaz100@gmail.com**
 
