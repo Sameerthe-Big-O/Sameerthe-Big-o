@@ -23,7 +23,7 @@
 <a href="https://instagram.com/sameerijaz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameerijaz_" height="30" width="40" /></a>
 <a href="https://hashnode.com/sameer ijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sameer ijaz" height="30" width="40" /></a>
 <a href="https://medium.com/sameer ijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sameer ijaz" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/sameer_ijaz100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sameer_ijaz100" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
