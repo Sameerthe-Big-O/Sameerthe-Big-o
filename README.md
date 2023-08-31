@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerthe-big-o&show_icons=true&locale=en" alt="sameerthe-big-o" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)<div class="open_grepper_editor" title="Edit & Save To Grepper"></div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sameerthe-Big-O)](https://git.io/streak-stats)
