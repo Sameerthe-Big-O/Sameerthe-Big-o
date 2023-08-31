@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm sameer ijaz</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=F7B63B&width=435&lines=i'm+sameer+ijaz;Software+engineer+Intern+a;Computer+Science+student)](https://git.io/typing-svg)
 <h3 align="center">A passionate software engineer intern and Computer science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerthe-big-o&label=Profile%20views&color=0e75b6&style=flat" alt="sameerthe-big-o" /> </p>
