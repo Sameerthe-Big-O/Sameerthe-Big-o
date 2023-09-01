@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm sameer ijaz</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerthe-big-o&label=Profile%20views&color=0e75b6&style=flat" alt="sameerthe-big-o" /> </p>
 
 - 🔭 I’m currently working on **Mern stack**
 
