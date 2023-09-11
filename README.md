@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sameer ijaz cjunior software </h1>
+<h1 align="center">Hi 👋, I'm sameer ijaz junior software </h1>
 
 
 - 🔭 I’m currently working on **Mern stack**
