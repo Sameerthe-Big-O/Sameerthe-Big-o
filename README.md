@@ -32,3 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerthe-big-o&show_icons=true&locale=en&layout=compact" alt="sameerthe-big-o" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerthe-big-o&show_icons=true&locale=en" alt="sameerthe-big-o" /></p>
+[![An image of @sameerthebigo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameerthebigo)](https://holopin.io/@sameerthebigo)
