@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sameer.ijaz100@gmail.com**
 
-- ⚡ Fun fact **I'm obesseb with space and galaxies ⚡**
+- ⚡ Fun fact **I'm obsessed with space and galaxies ⚡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerthe-big-o&show_icons=true&locale=en" alt="sameerthe-big-o" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerthe-big-o&" alt="sameerthe-big-o" /></p>
