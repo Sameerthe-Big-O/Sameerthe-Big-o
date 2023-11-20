@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm sameer ijaz</h1>
-<h3 align="center">A passionate software enjineer intern and computer science student</h3>
+<h3 align="center">A passionate software engineer intern and computer science student</h3>
 
 - 🔭 I’m currently working on **mern stack**
-
 - 🌱 I’m currently learning **react js**
-
 - 👯 I’m looking to collaborate on **mern stack**
-
 - 💬 Ask me about **react,node,express,mongoose,graphql**
-
 - 📫 How to reach me **sameer.ijaz100@gmail.com**
 
-- ⚡ Fun fact **i**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
