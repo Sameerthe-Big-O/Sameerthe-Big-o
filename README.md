@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer intern and computer science student</h3>
 
 - 🔭 I’m currently working on **mern stack**
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **react js, neural network AI**
 - 👯 I’m looking to collaborate on **mern stack**
 - 💬 Ask me about **react,node,express,mongoose,graphql,javascript**
 - 📫 How to reach me **sameer.ijaz100@gmail.com**
