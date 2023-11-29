@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **sameer.ijaz100@gmail.com**
 
-- ⚡ Fun fact **i'm obsessed with space and galaxies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
