@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm sameer ijaz</h1>
 <h3 align="center">A passionate software engineer intern and computer science student</h3>
 
-<h1 align="center">Hi 👋, I'm sameer ijaz</h1>
-<h3 align="center">A passionate software enjineer intern and computer science student</h3>
-
 - 🔭 I’m currently working on **mern stack**
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **react js neural network Ai**
 
 - 👯 I’m looking to collaborate on **mern stack**
 
