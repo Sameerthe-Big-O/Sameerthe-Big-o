@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **mern stack**
 
-- 💬 Ask me about **react,node,express,mongoose,graphql**
+- 💬 Ask me about **react,node,express,mongoose,graphql, general in programming, system design**
 
 - 📫 How to reach me **sameer.ijaz100@gmail.com**
 
