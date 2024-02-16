@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **mern stack**
 
-- 🌱 I’m currently learning **react js neural network Ai**
+- 🌱 I’m currently learning **Next.js and neural network Ai**
 
 - 👯 I’m looking to collaborate on **mern stack**
 
