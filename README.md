@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm sameer ijaz</h1>
 <h3 align="center">A passionate software engineer intern and computer science student</h3>
 
-- 🔭 I’m currently working on **mern stack**
+- 🔭 I’m currently working on **mern stack and java spring-boot**
 
-- 🌱 I’m currently learning **Next.js and neural network Ai**
+- 🌱 I’m currently learning **Next.js and spring-boot**
 
 - 👯 I’m looking to collaborate on **mern stack**
 
-- 💬 Ask me about **react,node,express,mongoose,graphql, general in programming, system design**
+- 💬 Ask me about **react,node,express,mongoose,graphql, general in programming, system design,java**
 
 - 📫 How to reach me **sameer.ijaz100@gmail.com**
+- 
+- 📫 **I love solving challenging problems I mean it's fun, isn't it this helps to analyze where I stand and also helps to increase my knowledge??**
+- 
+- In case you're fan of astronomy   **please connect me haha i'd love to talk about this stuff**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sameer ijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer ijaz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sameer" height="30" width="40" /></a>
-<a href="https://medium.com/@sameer-ijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sameer-ijaz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sameer" height="30" width="40" /></a>
 </p>
 
