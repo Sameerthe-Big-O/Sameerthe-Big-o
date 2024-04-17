@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm sameer ijaz</h1>
-<h3 align="center">A  software engineer who just love programming and love solving things</h3>
+<h3 align="center">A  software engineer intern who just love programming </h3>
 
 - 🔭 I’m currently working on **mern stack and java spring-boot**
 - 🌱 I’m currently learning **Next.js and spring-boot**
 - 👯 I’m looking to collaborate on **problems that are interesting and fun**
 - 💬 Ask me about **react,node,express,mongoose,graphql, general in programming, system design,java**
 - 📫 How to reach me **sameer.ijaz100@gmail.com**
-- 📫 **I love solving challenging problems I mean it's fun isn't it ??? this helps to analyze where I stand and also helps to increase my knowledge??**
+- 📫 **I love solving challenging problems I mean it's fun isn't it ??? this helps to analyze where I stand and to increase my knowledge**
 - In case you're fan of astronomy   **please connect me haha i'd love to talk about this stuff**
 
 
