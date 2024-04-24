@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sameer ijaz</h1>
-<h3 align="center">A  software engineer intern who just love programming </h3>
+<h3 align="center">A  software engineer intern and computer science student </h3>
 
 - 🔭 I’m currently working on **mern stack and java spring-boot**
 - 🌱 I’m currently learning **Next.js and spring-boot**
