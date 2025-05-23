@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm sameer ijaz</h1>
 <h3 align="center">A  software engineer and currently studying computer science </h3>
 
-- 🔭 I’m currently working on **mern stack **
-- 🌱 I’m currently learning **Next.js **
+- 🔭 I’m currently working on **mern stack and Asp.net Core **
+- 🌱 I’m currently learning **Angular and asp.net core**
 - 👯 I’m looking to collaborate on **problems that are interesting and fun**
-- 💬 Ask me about **react, angular, node,express, mongoose,Apt.net,.net, .netCore general in programming, system design**
+- 💬 Ask me about **react,angular,ngrx, node,express, mongoose,Apt.net,.net, .netCore general in programming, system design**
 - 📫 How to reach me **sameer.ijaz100@gmail.com**
 - 📫 **I love solving challenging problems I mean it's fun, isn't it? this helps to analyze where I stand and to increase my knowledge**
 - In case you're a fan of astronomy   **please connect me i'd love to talk about this stuff**
