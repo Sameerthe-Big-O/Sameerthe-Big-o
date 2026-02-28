@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sameer ijaz</h1>
+<h1 align="center">Hi 👋, I'm Sameer Ijaz</h1>
 <h3 align="center">A  software engineer and currently studying computer science </h3>
 
 - 🔭 I’m currently working on **mern stack and Asp.net Core **
